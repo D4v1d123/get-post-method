@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+form {
+    background-color: #434343;
+    color: white;
+    margin: 0% 30%;
+    padding: 1% 8% 2% 8%;
+    border-radius: 0 0 0.5rem 0.5rem;
+    display: block;
+    text-align: center;
+}
+
+button {
+    background-color: #434343;
+    color: white;
+    padding: 2% 4%;
+    border: 1% solid #ffcc00;
+    border-radius: 0.5rem;
+}
+
+button:hover {
+    background-color: #ffcc00;
+    color: black;
+    border: 1% solid #434343;
+    transition-duration: 0.4s;
+}
+
+input {
+    width: 100%;
+}
+
+.title {
+    background-color: #ffcc00;
+    margin: 5% 30% 0% 30%;
+    padding: 1% 0%;
+    text-align: center;
+    border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.pop_ups {
+    background-color: #434343;
+    color: white;
+    border-radius: 0.5rem;
+    margin: 25% 20%;
+    padding: 2%;
+    text-align: center;
+    
+}
